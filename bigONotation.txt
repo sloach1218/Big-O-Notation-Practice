@@ -1,0 +1,44 @@
+1.1: Constant time O(1) - the run time will always be constant, no matter the input because the person stands up and responds immediately
+1.2: Linear time O(n) - the run time will be directly proprtional to the amount of people in the room
+
+2: Constant time O(1) - the run time will always be constant, no matter the input because it only takes one value and does the same amount of work with every value
+
+3: Polynomial time O(n^2) - because it has nested loops, which requires 2 levels of looping over an input
+
+4: Linear time O(n) - the run time will be directly proprtional to the length of the array
+
+5: Linear time O(n) - the run time will be directly proprtional to the length of the array
+
+6: Polynomial time O(n^2) - because it has nested loops, which requires 2 levels of looping over an input
+
+7: Linear time O(n) - loops up to the given num, run time will be directly proportional to the value of num
+
+8: Logarithmic time O(log(n)) - takes in a sorted array and item as arguments, then goes through to find the index of the item by splitting the array in half
+
+9: Constant time O(1) - doesnt matter how long the array is, the output will always take the same amount of time to return a random element in the array
+
+10: Linear time O(n) - checks if n is a prime number, run time will depend on for loop(if it makes it to the for loop)
+
+11: see JS file
+
+12: see JS file
+
+13.1: O(n) - proportionate to input size
+13.2: O(n) - proportionate to input size
+13.3: O(n) - proportionate to input size, the longer the sting, the more recursive calls required
+13.4: O(n) - proportionate to input size, the higher the triangle input number, the longer it will take
+13.5: O(n) - proportionate to input size
+13.6: Polynomial time O(n^k) - increase in input increases the number of recursive calls to a constant power
+13.7: O(n)
+13.8: Polynomial time O(n^k) - increases based on size of maze
+13.9: Exponential time O(2^n)
+13.10: Linear time O(n)
+13.11: Logarithmic time O(log(n))
+
+14.1: O(n) - proportionate to input size
+14.2: O(n) - proportionate to input size
+14.3: O(n)
+14.4: O(n)
+14.5: O(n)
+14.6: O(n)
+14.7: O(n)
